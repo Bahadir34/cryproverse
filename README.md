@@ -27,14 +27,14 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 3. `index.html` dosyasını tarayıcınızda açın.
 
 ## 🚀 Ekran Görüntüleri
-![](./ptoject-views/cryptoverse-desktop.png)
-![](./ptoject-views/cryptoverse-mobile.png)
+![](./project-views/cryptoverse-desktop.png)
+![](./project-views/cryptoverse-mobile.png)
 
 ## 👤 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, lütfen **pull request** açabilirsiniz.
 
 ## 🌐 Canlı Önizleme
-![](./ptoject-views/cryptoverse.gif)
+![](./project-views/cryptoverse.gif)
 
 ---
 _Bu proje, yalnızca eğitim amaçlı geliştirilmiştir ve ticari bir amacı yoktur._
